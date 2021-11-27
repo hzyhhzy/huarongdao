@@ -1,0 +1,116 @@
+3列-----------------------------------------------------------------------------
+ShapeNum=0,0,3 BoardNum=40 NoSolutionNum=0  MaxStep = 11  Key = 1625009
+■▓ ▓
+  ▓ ▓
+■  ■
+
+
+ShapeNum=0,1,4 BoardNum=390 NoSolutionNum=187  MaxStep = 23  Key = 197171884
+■▓ ▓
+  ▓ ▓
+■▋ ■
+  ▋ ■
+
+
+ShapeNum=0,2,5 BoardNum=2940 NoSolutionNum=248  MaxStep = 60  Key = 5859515103
+▋   ■
+▋ ■■
+▋ ▓ ▓
+▋ ▓ ▓
+■■
+
+
+ShapeNum=0,4,4 BoardNum=9690 NoSolutionNum=2228  MaxStep = 94  Key = 3079880078329
+■  ▋
+▓ ▓ ▋
+▓ ▓ ▋
+▋ ■▋
+▋ ▋ ■
+  ▋ ■
+
+
+ShapeNum=0,5,5 BoardNum=57792 NoSolutionNum=6132  MaxStep = 104  Key = 381951417206204
+■  ▋
+■■▋
+▓ ▓ ▋
+▓ ▓ ▋
+▋ ■▋
+▋ ▋ ▋
+  ▋ ■
+
+
+ShapeNum=0,7,4 BoardNum=79200 NoSolutionNum=15036  MaxStep = 140  Key = 48122519577343954
+■  ▋
+▓ ▓ ▋
+▓ ▓ ▋
+▋ ■▋
+▋ ▋ ▋
+▋ ▋ ▋
+▋ ▋ ■
+  ▋ ■
+  
+  
+4列-----------------------------------------------------------------------------
+
+ShapeNum=1,0,4 BoardNum=390 NoSolutionNum=166  MaxStep = 22  Key = 201096255
+  ▓ ▓
+■▓ ▓ ■
+■▅ ▅ ■
+
+
+ShapeNum=3,0,4 BoardNum=3330 NoSolutionNum=1440  MaxStep = 66  Key = 12930781755
+  ▓ ▓ ■
+  ▓ ▓ ■
+▅ ▅ ■■
+▅ ▅ ▅ ▅
+
+
+ShapeNum=2,3,4 BoardNum=109260 NoSolutionNum=25288  MaxStep = 179  Key = 15566407447498
+▋ ■■■
+▋ ▋ ▓ ▓
+▋ ▋ ▓ ▓
+▋ ▅ ▅
+▅ ▅ ■
+
+
+ShapeNum=2,5,4 BoardNum=711660 MaxStep=267  Key=90487212424880
+  ▓ ▓ ■
+■▓ ▓ ■
+▋ ▅ ▅ ▋
+▋ ▅ ▅ ▋
+▋ ▋ ▋ ■
+▋ ▋ ▋
+
+
+ShapeNum=4,6,2 BoardNum=691776 NoSolutionNum=447222  MaxStep = 308  Key = 37004181837899127_4
+▅ ▅   ▋
+▋ ▅ ▅ ▋
+▋ ▓ ▓ ■
+▋ ▓ ▓ ▋
+▋ ▅ ▅ ▋
+▋ ▅ ▅ ▋
+▋   ■▋
+
+
+ShapeNum=4,8,2 BoardNum=2680932 NoSolutionNum=1336757  MaxStep = 483  Key = 1109981651144150027_1250
+▅ ▅ ▓ ▓
+  ▋ ▓ ▓
+■▋ ▅ ▅
+▋ ▋ ▋ ▋
+▋ ▋ ▋ ▋
+■▅ ▅ ▋
+▋ ▋   ▋
+▋ ▋ ▅ ▅
+
+
+5列-----------------------------------------------------------------------------
+
+
+6列-----------------------------------------------------------------------------
+
+ShapeNum=7,4,2 BoardNum=1372656 NoSolutionNum=706354  MaxStep = 339  Key = 162201239502776927_4
+▅ ▅ ▅ ▅ ▋ ▋
+▅ ▅ ▅ ▅ ▋ ▋
+▅ ▅ ▓ ▓ ▅ ▅
+  ■▓ ▓ ▋ ▋
+▅ ▅ ■  ▋ ▋
